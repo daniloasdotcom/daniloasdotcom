@@ -94,7 +94,7 @@ Advised by a friend and aiming to enter the technology market, I have started a 
 - 🖥 [Código Agro](https://codigoagro.com/)
 - 📊 [Dados Agro](https://dadosagro.com/)
 - 🌾 [Biochar data Blog](https://biochardatablog.streamlit.app/)
-- 🌱 [Agroecosystems](https://daniloasdotcom.github.io/agroecosystems/)
+- 🌱 [Agroecosystems](https://agroecossistemas.online)
 - 🌵 [GeoSAB](https://geosab.streamlit.app/)
 
 
