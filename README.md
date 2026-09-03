@@ -93,7 +93,7 @@ Advised by a friend and aiming to enter the technology market, I have started a 
 - 👨‍💻 [Angular CheckList](https://daniloasdotcom.github.io/angularchecklist/)
 - 🖥 [Código Agro](https://codigoagro.com/)
 - 📊 [Dados Agro](https://dadosagro.com/)
-- 🌾 [Biochar data Blog](https://biochardatablog.streamlit.app/)
+- 🌾 [Biochar data Blog](https://biocharinsights.streamlit.app/)
 - 🌱 [Agroecosystems](https://agroecossistemas.online)
 - 🌵 [GeoSAB](https://geosab.streamlit.app/)
 - 🌿 [Bioinsumos](https://daniloasdotcom.github.io/bioinsumos/home)👷 - Under Construction
