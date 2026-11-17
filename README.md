@@ -96,7 +96,7 @@ Advised by a friend and aiming to enter the technology market, I have started a 
 - 🌾 [Biochar Insights](https://biocharinsights.streamlit.app/)
 - 🌱 [Agroecosystems](https://agroecossistemas.online)
 - 🌵 [GeoSAB](https://geosab.streamlit.app/)
-- 🌿 [Bioinsumos](https://daniloasdotcom.github.io/bioinsumos/home)👷 - Under Construction
+- 🌿 [Bioinsumos](https://daniloasdotcom.github.io/bioinsumos/home)
 
 
 <!--
